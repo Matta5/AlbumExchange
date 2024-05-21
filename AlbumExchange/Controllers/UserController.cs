@@ -68,7 +68,6 @@ namespace DatabaseConnectie.Controllers
                             username = reader.GetString(1),
                             email = reader.GetString(2),
                             password = reader.GetString(3)
-                            // Add other properties as needed
                         };
                     }
                 }
