@@ -5,9 +5,9 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlbumExchange", "AlbumExchange\AlbumExchange.csproj", "{8AAF469B-E1D2-4F6C-A3EF-8952579310CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation layer", "Presentation layer\Presentation layer.csproj", "{20A2FE16-4FCB-4D5C-9AA2-8C2320874848}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "Presentation layer\DAL.csproj", "{20A2FE16-4FCB-4D5C-9AA2-8C2320874848}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{0B14BC24-3908-4685-A2A1-7718D14F14FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "DAL\Logic.csproj", "{0B14BC24-3908-4685-A2A1-7718D14F14FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
